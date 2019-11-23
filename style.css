@@ -1,0 +1,35 @@
+@media (prefers-color-scheme: dark) {
+  a {
+    color: #c8c8c8;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  section#sidebar {
+    background-color: #3b3b3b;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  section#sidebar>div.scrollBox>ul a.dir>span.icon::before, section#sidebar>div.scrollBox>div.pinned>ul a.dir>span.icon::before {
+    background-color: #c8c8c8;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  section#sidebar[data-sort='custom']>div#bookmarkBox a:hover {
+    background-color: #555555;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  div.contextmenu {
+    background-color: #4b4b4b;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  div.contextmenu>ul.icons {
+    background-color: #555555;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  body>iframe#blockbyte-bs-sidebar  {
+    background-color: rgba(0,0,0,.6) !important;
+  }
+}
