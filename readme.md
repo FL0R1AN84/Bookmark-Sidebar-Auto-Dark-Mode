@@ -2,7 +2,7 @@
 
 ### Automatically switches to dark mode when activated in the operating system
 
-With the extension [Bookmark Sidebar](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh) you can only switch to Light or Dark Mode manually. This CSS adjustment automatically switches to dark mode.
+With the extension [Bookmark Sidebar](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh) you can only switch to Light or Dark Mode manually. With this CSS adjustment `@media (prefers-color-scheme: dark)` automatically switches to dark mode.
 
 ![screenshot from Bookmark Sidebar light and dark theme](https://gammagate.de/github/bsadm_example.jpg)
 
