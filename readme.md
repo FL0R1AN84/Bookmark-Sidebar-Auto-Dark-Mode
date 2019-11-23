@@ -6,6 +6,7 @@ With the extension [Bookmark Sidebar](https://chrome.google.com/webstore/detail/
 
 ![screenshot from Bookmark Sidebar light and dark theme](https://gammagate.de/github/bsadm_example.jpg)
 
+Insert CSS with Stylus for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Firefox](https://addons.mozilla.org/de/firefox/addon/styl-us/)
 
 _Version: 1.0.0_
 
