@@ -8,6 +8,10 @@ With the extension [Bookmark Sidebar](https://chrome.google.com/webstore/detail/
 
 Insert CSS with Stylus for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Firefox](https://addons.mozilla.org/de/firefox/addon/styl-us/)
 
+* style.css: Is the regular code.
+
+* dark-reader.css: You only need this code if you use the Dark Reader extension. 
+
 _Version: 1.0.0_
 
 _Date: 2019-11-23_
