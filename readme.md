@@ -8,7 +8,7 @@ With the extension [Bookmark Sidebar](https://chrome.google.com/webstore/detail/
 
 * dark-reader.css - You only need this code if you use the Dark Reader extension. 
 
-![screenshot from Bookmark Sidebar light and dark theme](https://gammagate.de/github/bsadm_example.jpg)
+![screenshot from Bookmark Sidebar light and dark theme](bsadm_example.jpg)
 
 Insert CSS with Stylus for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Firefox](https://addons.mozilla.org/de/firefox/addon/styl-us/)
 
