@@ -13,7 +13,3 @@ With the extension [Bookmark Sidebar](https://chrome.google.com/webstore/detail/
 Insert CSS with Stylus for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Firefox](https://addons.mozilla.org/de/firefox/addon/styl-us/)
 
 Or use Premium for your custom stylesheet. The developer will thank you for it ;-)
-
-_Version: 1.0.0_
-
-_Date: 2019-11-23_
